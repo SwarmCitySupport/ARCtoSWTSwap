@@ -33,3 +33,19 @@
 <li><span style="font-size: large;">Next, allowance is given to the new SWTConverter contract to receive the full balance of ARC tokens. This function moves the ARC tokens to the burn address. New SWT is minted, at a 1:1, rate on the same address that initially stored the ARC tokens. This may take a few minutes. You will again notice a "green checkmark"</span></li>
 <li><span style="font-size: large;">Lastly, your balance is updated. The wallet now holds your freshly minted SWT!! You will notice a third "green checkmark" and receive "Congratulations". You can now view your SWT and ether balance, send SWT, and transact on the Swarm City Boardwalk.</span></li>
 </ul>
+
+# WHat happens to ARC tokens that are converted to SWT?
+<p><span style="font-size: large;"><span>The ARC tokens will be destroyed immediately by being sent to the burn address,&nbsp;<span id="docs-internal-guid-35aa2414-f719-b6d7-eaa4-f1571a96911d"><span><a href="https://etherscan.io/token/0xAc709FcB44a43c35F0DA4e3163b117A17F3770f5?a=0x0000000000000000000000000000000000000000">https://etherscan.io/token/0xAc709FcB44a43c35F0DA4e3163b117A17F3770f5?a=0x0000000000000000000000000000000000000000</a>.</span></span></span></span></p>
+<p><span style="font-size: large;">ARC tokens sent to this address are forever "locked" once they reach this burn address.&nbsp;<a href="https://en.bitcoin.it/wiki/Proof_of_burn">Burning</a>&nbsp;is a method of effectively destroying coins such that they can never be spent again. Coins can be burnt&nbsp;by sending them to an address, which are guaranteed to have no known or discoverable private key.</span></p>
+
+# Why is there an ARC to SWT conversion?
+<p><span style="font-size: large;">For the benefit of this project it was necessary to <a href="https://press.swarm.city/forking-a-brand-cde5de87d46a">fork the brand</a> from Arcade City to Swarm City. Therefore, use of the ARC token within the Swarm City DApp was no longer an acceptable option.</span></p>
+<p><span style="font-size: large;">So, we integrated an exchange process into our DApp, indefinitely giving all ARC token holders the option to exchange ARC for SWT that can be used in the Swarm City ecosystem.&nbsp;&nbsp;</span></p>
+
+# When can I exchange ARC for SWT?
+<p><span style="font-size: large;"><span>You can start the exchange anytime, select "enter here" at&nbsp;</span><a class="postlink" href="https://legacy.swarm.city/">Swarm City</a>.</span></p>
+<p><span style="font-size: large;">Exchange rate 1:1</span></p>
+<p><span style="font-size: large;">This conversion process will always be available at <a href="https://swarm.city/">https://legacy.swarm.city</a>.&nbsp;</span></p>
+<p><span style="font-size: large;">There is NO TIME LIMIT</span></p>
+
+# 
