@@ -66,4 +66,54 @@
 <p><span style="font-size: large;"><span>Yes, the easiest way to convert ARC to SWT is to use the automatic conversion tool in the Swarm CIty Terminal, but technically savvy users can also perform the exchange manually. </span></span></p>
 <p><span style="font-size: large;"><span>Find instructions&nbsp;</span><a class="postlink" href="https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md#options-for-exchanging-my-tokens">here</a>.</span></p>
 
+# I don't want to hodl SWT anymore, can I get an eth refund?
+<p><span style="font-size: large;"><span>We will not refund ETH, but you can trade ARC tokens on one of the decentralized exchanges, like Etherdelta.&nbsp;</span></span></p>
+<p><span style="font-size: medium;">ARC tokens are not listed on any major exchanges and are a bit harder to trade/sell. If you can not find someone who wants to trade for ARC tokens, you can convert your ARC to SWT and then sell/trade the SWT.</span></p>
+
+# Can I send ARC from MyCrypto wallet directly to the SWT token contract?
+<p><span style="font-size: large;">No, to exchange from ARC to SWT you will either need to use the automatic conversion tool or use the instructions provided <a href="https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md#2-perform-the-token-exchange-yourself-advanced">here</a> to complete the conversion process manually.</span></p>
+<p><span style="font-size: large;">Tokens sent directly to the Swarm City token contract will NOT be converted, and can not be recovered.</span></p>
+<p><span style="font-size: large;">DO NOT SEND ANY TOKENS DIRECTLY TO THE SWARM CITY TOKEN CONTRACT.</span></p>
+<p><span style="font-size: large;">ARC token burn address:&nbsp;<a href="https://etherscan.io/token/0xAc709FcB44a43c35F0DA4e3163b117A17F3770f5?a=0x0000000000000000000000000000000000000000">https://etherscan.io/token/0xAc709FcB44a43c35F0DA4e3163b117A17F3770f5?a=0x0000000000000000000000000000000000000000</a></span></p>
+<p><span style="font-size: large;">Once the conversion process is complete, you will be able to view your newly minted SWT on your MyCrypto account as well as in the Terminal.</span></p>
+
+# Can I send ARC from MyEtherWallet directly to the SWT token contract?
+<p><span style="font-size: large;">No, to exchange from ARC to SWT you will either need to use the automatic conversion tool or use the instructions provided <a href="https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md#2-perform-the-token-exchange-yourself-advanced">here</a> to complete the conversion process manually.</span></p>
+<p><span style="font-size: large;">Tokens sent directly to the Swarm City token contract will NOT be converted, and can not be recovered.</span></p>
+<p><span style="font-size: large;">DO NOT SEND ANY TOKENS DIRECTLY TO THE SWARM CITY TOKEN CONTRACT.</span></p>
+<p><span style="font-size: large;">ARC token burn address:&nbsp;<a href="https://etherscan.io/token/0xAc709FcB44a43c35F0DA4e3163b117A17F3770f5?a=0x0000000000000000000000000000000000000000">https://etherscan.io/token/0xAc709FcB44a43c35F0DA4e3163b117A17F3770f5?a=0x0000000000000000000000000000000000000000</a></span></p>
+<p><span style="font-size: large;">Once the conversion process is complete, you will be able to view your newly minted SWT on your MyEtherWallet account as well as in the Terminal.</span></p>
+
+# How do I convert SWT tokens stored a MyCrypto address?
+<p><span style="font-size: large;">You will need to import your MyCrypto address in to the Terminal.&nbsp;</span></p>
+<ul>
+<li><span style="font-size: large;">Go to&nbsp;<a href="https://swarm.city/">https://legacy.swarm.city</a></span></li>
+<li><span style="font-size: large;">Select "enter here"</span></li>
+<li><span style="font-size: large;">Then select "Create new user"</span></li>
+<li><span style="font-size: large;">Choose "Yes, convert my tokens"</span></li>
+<li><span style="font-size: large;">Now, select "I have Arcade-tokens in an external wallet"</span></li>
+<li><span style="font-size: large;">Enter your private key</span></li>
+<li><span style="font-size: large;">Create a password to protect your new Swarm City account, and store it in a safe place.</span></li>
+<li><span style="font-size: large;">The system will automatically detect and convert your ARC tokens</span></li>
+</ul>
+<p><span style="font-size: large;">*Be sure that your wallet holds enough ETH to cover the gas transaction fees, approx. 0.00042 ETH</span></p>
+<p><span style="font-size: large;"><span>You will be guided through the token exchange process, which should only take a few minutes to execute. Once done, you can view or transact using SWT on your MyCrypto account as well as in the Swarm City Terminal.</span></span></p>
+<div><span><br /></span></div>
+<div class="topic-footer">&nbsp;</div>
+
+# How do I convert tokens stored in a MyEtherWallet address?
+<p><span style="font-size: large;">You will need to import your MyEtherWallet address in to the Terminal.&nbsp;</span></p>
+<ul>
+<li><span style="font-size: large;">Go to <a href="https://swarm.city">https://legacy.swarm.city</a></span></li>
+<li><span style="font-size: large;">Select "enter here"</span></li>
+<li><span style="font-size: large;">Then select "Create new user"</span></li>
+<li><span style="font-size: large;">Choose "Yes, convert my tokens"</span></li>
+<li><span style="font-size: large;">Now, select "I have Arcade-tokens in an external wallet"</span></li>
+<li><span style="font-size: large;">Enter your private key</span></li>
+<li><span style="font-size: large;">Create a password to protect your new Swarm City account, and store it in a safe place.</span></li>
+<li><span style="font-size: large;">The system will automatically detect and convert your ARC tokens</span></li>
+</ul>
+<p><span style="font-size: large;">*Be sure that your wallet holds enough ETH to cover the gas transaction fees, approx. 0.00042 ETH</span></p>
+<p><span style="font-size: large;">You will be guided through the token exchange process, which should only take a few minutes to execute. Once done, you can view or transact using SWT on your MyEtherWallet account as well as in the Swarm City Terminal.</span></p>
+
 
