@@ -48,4 +48,22 @@
 <p><span style="font-size: large;">This conversion process will always be available at <a href="https://swarm.city/">https://legacy.swarm.city</a>.&nbsp;</span></p>
 <p><span style="font-size: large;">There is NO TIME LIMIT</span></p>
 
-# 
+# What is the ARC to SWT conversion rate?
+<p><span style="font-size: large;">The exchange rate is 1:1</span></p>
+<p><span style="font-size: large;">Users will get 1 SWT in exchange for 1 ARC token.</span></p>
+<p><span style="font-size: large;">This conversion rate is permanent.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-size: large;">To initiate the ARC to SWT conversion, visit the Swarm City Terminal at <a href="https://swarm.city">https://legacy.swarm.city</a></span></p>
+<p><span style="font-size: large;">Load the wallet storing the ARC tokens you want to convert. All ARC tokens in this wallet will be automatically converted into SWT upon entry to the Terminal after selecting Enter here and succesfully decrypting your wallet.</span></p>
+<p><span style="font-size: large;">NOTE: *Users can not specify partial conversion amounts, so be sure to remove any ARC that you do not wish to convert prior to initiating the conversion process.</span></p>
+<p><span style="font-size: large;">The ARC to SWT conversion process also requires a small amount of ether to cover the Ethereum blockchain transaction gas fees. This amount varies and is determined by the miners processing the block. Check <a href="https://mycrypto.github.io/knowledge-base/gas/what-is-gas-ethereum.html">M</a><a href="https://mycrypto.github.io/knowledge-base/gas/what-is-gas-ethereum.html">yCrypto</a> for the current gas fee amount.</span></p>
+<p>&nbsp;</p>
+
+# Is there a time limit for exchanging ARC to SWT?
+<p><span style="font-size: large;"><span>There is no time limit on performing the conversion. This functionality will be permanently available in our contract.</span></span></p>
+
+# Can I convert ARC without using the Swarm City Terminal?
+<p><span style="font-size: large;"><span>Yes, the easiest way to convert ARC to SWT is to use the automatic conversion tool in the Swarm CIty Terminal, but technically savvy users can also perform the exchange manually. </span></span></p>
+<p><span style="font-size: large;"><span>Find instructions&nbsp;</span><a class="postlink" href="https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md#options-for-exchanging-my-tokens">here</a>.</span></p>
+
+
