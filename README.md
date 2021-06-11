@@ -34,7 +34,7 @@
 <li><span style="font-size: large;">Lastly, your balance is updated. The wallet now holds your freshly minted SWT!! You will notice a third "green checkmark" and receive "Congratulations". You can now view your SWT and ether balance, send SWT, and transact on the Swarm City Boardwalk.</span></li>
 </ul>
 
-# WHat happens to ARC tokens that are converted to SWT?
+# What happens to ARC tokens that are converted to SWT?
 <p><span style="font-size: large;"><span>The ARC tokens will be destroyed immediately by being sent to the burn address,&nbsp;<span id="docs-internal-guid-35aa2414-f719-b6d7-eaa4-f1571a96911d"><span><a href="https://etherscan.io/token/0xAc709FcB44a43c35F0DA4e3163b117A17F3770f5?a=0x0000000000000000000000000000000000000000">https://etherscan.io/token/0xAc709FcB44a43c35F0DA4e3163b117A17F3770f5?a=0x0000000000000000000000000000000000000000</a>.</span></span></span></span></p>
 <p><span style="font-size: large;">ARC tokens sent to this address are forever "locked" once they reach this burn address.&nbsp;<a href="https://en.bitcoin.it/wiki/Proof_of_burn">Burning</a>&nbsp;is a method of effectively destroying coins such that they can never be spent again. Coins can be burnt&nbsp;by sending them to an address, which are guaranteed to have no known or discoverable private key.</span></p>
 
